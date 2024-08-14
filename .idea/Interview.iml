@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/JavaWithTelusko/com.telusko.practice/production/Interview" />
+    <output-test url="file://$MODULE_DIR$/JavaWithTelusko/com.telusko.practice/test/Interview" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/JavaWithTelusko" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaWithTelusko/com.telusko.practice" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/JavaWithTelusko/com.telusko.practice" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

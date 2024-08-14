@@ -1,1 +1,1 @@
-This is a sample readme file.
+Preparing for a full stack dev interview with advanced conceptes like System Design, DevOps etc
